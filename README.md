@@ -10,12 +10,12 @@ read from a file descriptor and learn about static variables.</i>
 ##
 
 ### Final grade
-[![abrisse's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1rqvecz002109l7rv0oprry/project/2439557)](https://github.com/JaeSeoKim/badge42)
+[![abrisse's 42 get_next_line Score](https://badge.nimon.fr/api/v2/clw51aj8x026501rzp5ef4x2f/project/2439557)](https://github.com/Nimon77/badge42)
 
 ### Subject
-English version [here](https://cdn.intra.42.fr/pdf/pdf/90178/en.subject.pdf)
+English version [here](https://github.com/abrisse16/42-subjects/blob/7385a594afd19b06ab40ed62b5e8c818d2d8bd21/get_next_line-subject-v10.en.pdf)
 <br>
-French version [here](https://cdn.intra.42.fr/pdf/pdf/90179/fr.subject.pdf)
+French version [here](https://github.com/abrisse16/42-subjects/blob/7385a594afd19b06ab40ed62b5e8c818d2d8bd21/get_next_line-subject-v10.fr.pdf)
 
 </div>
 
